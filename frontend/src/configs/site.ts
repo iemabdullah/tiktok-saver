@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
   url: "http://localhost:3000/",
   ogImageUrl: "http://localhost:3000/og.png",
   links: {
-    twitter: "https://twitter.com/riadazz",
-    github: "https://github.com/riad-azz/tiktok-saver",
+    Website: "https://abdullahcoded.blogspot.com/",
+    github: "https://github.com/iemabdullah/tiktok-saver",
   },
 };
