@@ -10,7 +10,7 @@ const Footer = () => {
             <span>Powered by</span>
             <a
               target="_blank"
-              href="https://github.com/riad-azz/tiktok-saver"
+              href="https://github.com/iemabdullah/tiktok-saver"
               className="flex items-center text-primary hover:underline"
             >
               <TbBrandNextjs className="text-xl" />
@@ -22,10 +22,10 @@ const Footer = () => {
             <span>Designed by </span>
             <a
               target="_blank"
-              href="https://github.com/riad-azz"
+              href="https://abdullahcoded.blogspot.com/"
               className="text-primary hover:underline"
             >
-              @riad-azz
+              ᗩᗷᗪᑌᒪᒪᗩᕼ ᑕᗝᗪᗴᗪ
             </a>
           </div>
         </div>
