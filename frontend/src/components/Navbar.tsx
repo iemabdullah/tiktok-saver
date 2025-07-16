@@ -22,7 +22,7 @@ const Navbar = () => {
       <div className="flex items-center gap-4 px-2 md:px-4 md:text-lg">
         <a
           target="_blank"
-          href="https://twitter.com/riadazz"
+          href="https://www.instagram.com/em.abdullah__/"
           className="block hover:underline"
         >
           Contact
