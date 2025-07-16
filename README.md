@@ -19,7 +19,7 @@ Install the latest version of [Docker](https://www.docker.com/) then follow thes
 **1.** Clone the repository:
 
 ```bash
-git clone https://github.com/riad-azz/tiktok-saver.git
+git clone https://github.com/iemabdullah/tiktok-saver.git
 ```
 
 **2.** Navigate to the project folder:
